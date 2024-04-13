@@ -49,6 +49,13 @@
     $ cd worksppace
     $ mkdir personal work
 ```
+### 5. Caso nunca tenha criado chave ssh
+
+```
+    $ mkdir -p ~/.ssh
+    $ cd ~/.ssh
+
+```
 
 ### 4. Crie as chaves SSH
 
