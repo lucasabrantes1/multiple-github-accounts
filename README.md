@@ -80,7 +80,7 @@
   
 ```
 
-### 6. Colar as chaves ssh em sua respectivar contas
+### 7. Colar as chaves ssh em sua respectivar contas
 
 ```
   $ cat personal_id_rsa.pub | clip
@@ -88,7 +88,7 @@
   
 ```
 
-### 7. Ligar o SSH e clonar no work
+### 8. Ligar o SSH e clonar no work
 
 ```
   $ eval "$(ssh-agent -s)"
@@ -108,7 +108,7 @@
 
 ```
 
-### 7. Configuração do arquivo ssh (EXTRA)
+### 9. Configuração do arquivo ssh (EXTRA)
 
 ```
 # Configuração para a conta pessoal
